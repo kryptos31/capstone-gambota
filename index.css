@@ -1,11 +1,14 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Dosis', sans-serif;
 }
 html{
 	scroll-behavior: smooth;
 	scroll-padding-top: 5rem;
+}
+p{
+	font-size: 2rem;
 }
 nav{
 	background-color: #131333;
